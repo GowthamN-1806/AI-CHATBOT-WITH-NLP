@@ -22,4 +22,7 @@ Once the model was trained, I developed the response mechanism. When a user inpu
 
 In conclusion, Task 3 was one of the most engaging and intellectually rewarding assignments of the internship. It provided me with practical knowledge of how AI chatbots work behind the scenes and how natural language understanding can be implemented using Python. By building this chatbot from scratch, I learned how to integrate data, train models, and manage conversations in a meaningful way. This task not only deepened my understanding of Python and machine learning but also prepared me to work on more advanced NLP projects in the future, such as sentiment analysis, text summarization, or context-aware conversation systems.
 
+![image](https://github.com/user-attachments/assets/eb1ef42e-9a87-4f33-8dbf-824d2a9873d5)
+
+
 
